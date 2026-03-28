@@ -11,44 +11,60 @@ Core Fitness provides a simple and organized platform where users can explore gy
 
 ## Application Sections
 
+### Home
+- Welcome section introducing Core Fitness
+- 
+
+
+
 ### Equipment
-- name
-- type
-- target muscle
-- difficulty level
+- Name
+- Type
+- Target muscle
+- Difficulty level
 
 ### Exercises
-- name
-- equipment used
-- target muscle
-- instructions
+- Exercise name
+- Exercise details
+- Instructions
+- Safety tips
 
 ### Workout Plans
-- plan name
-- level (beginner / advanced)
-- training days
-- rest days
+- Plan types (Cutting, Bulking, Maintenance)
+- Weekly schedule (Day 1, Day 2, Day 3)
+- Types of exercises (Upper body, Lower body, Full body)
+- Cardio plan for each goal
+- Tips for each workout plan
 
-### Goal Guide (Bulking / Cutting / Maintenance / Athlete + InBody)
-- goal type
-- recommended reps
-- intensity level
-- weight level
-- body fat percentage
-- muscle mass
+### InBody
+- Input body measurements (Fat%, Muscle mass, Weight)
+- Analyse body composition
+- Generates suggested fitness goal
+- Provide personalized recommendations based on results
+
+### Goal Guide (Bulking / Cutting / Maintenance)
+- Recommended goal based on InBody result
+- Goal description
+- Focus (Fat loss, Muscle gain, Balance, e.g.)
+- Training style (Strength, Cardio, or Combination)
+- Next step to view the matching workout plan
 
 Goal Types:
 - Maintenance (Balanced Body)
 - Cutting (Fat Loss)
 - Bulking (Muscle Gain)
-- Athlete / Performance (Strength and Endurance)
 
 ## Tools Used
 - Appsmith
 - GitHub
+- HTML
+- CSS
+
+## Development Tools
+- PyCharm
 
 ## Team Members
-1. Reham Alamri - Equipment
-2. Layan - Exercises
-3. Alanoud Khalid - Workout Plans
-4. Rawan Alali - Goal Guide
+1. Reham Alamri - Equipments Page Coding and Deign
+2. Leiann Alkhudair - Exercises Page Coding and Deign & Home Page Codes
+3. Alanoud Khalid - Workout Plans Page Coding and Deign & Home Page Design
+4. Rawan Alali - InBody & Goal Guide Pages Coding and Deign
