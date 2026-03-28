@@ -24,10 +24,9 @@ Core Fitness provides a simple and organized platform where users can explore gy
 - instructions
 
 ### Workout Plans
-- plan name
-- level (beginner / advanced)
-- training days
-- rest days
+- Cutting Plan
+- Bulking Plan
+-Maintenance Plan
 
 ### Goal Guide (Bulking / Cutting / Maintenance / Athlete + InBody)
 - goal type
