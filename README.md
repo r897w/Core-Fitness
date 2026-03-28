@@ -13,9 +13,9 @@ Core Fitness provides a simple and organized platform where users can explore gy
 
 ### Home
 - Welcome section introducing Core Fitness
-- 
-
-
+- Overview of features (Equipments, Exercises, InBody, Workout Plans)
+- Guide users through their fitness journey
+- Sections preview (Equipment, Exercises, InBody, Goal & Workout Plan)
 
 ### Equipment
 - Name
