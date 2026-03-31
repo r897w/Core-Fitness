@@ -64,7 +64,7 @@ Goal Types:
 - PyCharm
 
 ## Team Members
-1. Reham Alamri - Equipments Page Coding and Deign
-2. Leiann Alkhudair - Exercises Page Coding and Deign & Home Page Codes
-3. Alanoud Khalid - Workout Plans Page Coding and Deign & Home Page Design
-4. Rawan Alali - InBody & Goal Guide Pages Coding and Deign
+1. Reham Alamri - Equipments Page Coding and Design
+2. Leiann Alkhudair - Exercises Page Coding and Design & Home Page Codes
+3. Alanoud Khalid - Workout Plans Page Coding and Design & Home Page Design
+4. Rawan Alali - InBody & Goal Guide Pages Coding and Design
