@@ -15,7 +15,6 @@ Core Fitness provides a simple and organized platform where users can explore gy
 - Welcome section introducing Core Fitness
 - Overview of features (Equipments, Exercises, InBody, Workout Plans)
 - Guide users through their fitness journey
-- Sections preview (Equipment, Exercises, InBody, Goal & Workout Plan)
 
 ### Equipment
 - Name
@@ -32,13 +31,12 @@ Core Fitness provides a simple and organized platform where users can explore gy
 ### Workout Plans
 - Plan types (Cutting, Bulking, Maintenance)
 - Weekly schedule (Day 1, Day 2, Day 3)
-- Types of exercises (Upper body, Lower body, Full body)
 - Cardio plan for each goal
 - Tips for each workout plan
 
 ### InBody
 - Input body measurements (Fat%, Muscle mass, Weight)
-- Analyse body composition
+- Analyze body composition
 - Generates suggested fitness goal
 - Provide personalized recommendations based on results
 
@@ -46,7 +44,6 @@ Core Fitness provides a simple and organized platform where users can explore gy
 - Recommended goal based on InBody result
 - Goal description
 - Focus (Fat loss, Muscle gain, Balance, e.g.)
-- Training style (Strength, Cardio, or Combination)
 - Next step to view the matching workout plan
 
 Goal Types:
@@ -59,12 +56,34 @@ Goal Types:
 - GitHub
 - HTML
 - CSS
+- JavaScript
+- localStorage
 
+## JavaScript Functionality
+The website uses JavaScript to provide interaction and dynamic behavior, including:
+- Search functionality
+- Filtering content
+- InBody form logic
+- Goal recommendation
+- Saving user results using localStorage
+- Displaying personalized goal information
+- Interactive workout plan sections
+
+## localStorage Usage
+The application stores the user's recommended fitness goal and body composition values using localStorage. Stored values include:
+- recommendedGoal
+- bodyFat
+- muscleMass
+- weight
+  
 ## Development Tools
 - PyCharm
 
 ## Team Members
-1. Reham Alamri - Equipments Page Coding and Design
-2. Leiann Alkhudair - Exercises Page Coding and Design & Home Page Codes
-3. Alanoud Khalid - Workout Plans Page Coding and Design & Home Page Design
-4. Rawan Alali - InBody & Goal Guide Pages Coding and Design
+1. Reham Alamri - Equipments Page Coding and Design & Java codes & Home Page Java Codes
+2. Leiann Alkhudair - Exercises Page Coding and Design & Java Codes & Home Page Codes
+3. Alanoud Khalid - Workout Plans Page Coding and Design & Java Codes & Home Page Design 
+4. Rawan Alali - InBody & Goal Guide Pages Coding and Design & Java Codes
+
+## GitHub Pages Link
+To be added after deployment.
