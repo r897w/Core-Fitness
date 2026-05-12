@@ -86,4 +86,4 @@ The application stores the user's recommended fitness goal and body composition 
 4. Rawan Alali - InBody & Goal Guide Pages Coding and Design & Java Codes
 
 ## GitHub Pages Link
-https://r897w.github.io/Core-Fitness/)
+https://r897w.github.io/Core-Fitness/
